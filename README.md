@@ -4,14 +4,14 @@
 This is the main documentation for AISExchange.
 
 ### Server Documentation:
-[Link](server/README.md)
+[Link](/server/README.md)
 
 ### Client Documentation:
 
 <hr>
 
 ## About 
-AISExchange is a an open source platform created with the intention of creating a free and open source platform for the exchange of AIS data.
+AISExchange was created with the intention of creating a free and open source platform for the exchange of AIS data.
 
 ### What is AIS?
 Automatic Identification Systems are a set of technologies that use transponders on ships to broadcast their identity, position, course and speed to other ships, coastal stations and satellites. This information is used by ships to avoid collisions, by port authorities to manage port operations, and by commercial organizations to track and manage their fleets.
