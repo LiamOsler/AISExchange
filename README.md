@@ -30,6 +30,7 @@ Dedicated hardware systems are installed on thousands of vessels. Unfortunately,
 A mobile application based on [React Native](https://reactnative.dev/) will be developed that allows users to share their position data over the mobile network. The application will first be available for Android, then iOS. The application will be available for free on the Google Play Store and Apple App Store.
 
 ## AISExchange User Platform
+AISExchange Beacon allows you to share your position data over the internet to the AISExchange Network. This means you can broadcast your position over mobile data, WiFi or through a wired connection. This allows you to share your position  with AISExchange servers.
 
 ## Why create AISExchange?
 There is a lack of free and open source platforms for the exchange of AIS data. AISExchange is an attempt to create a free and open source platform for the exchange of user generated AIS data. AISExchange will allow users to broadcast their position using a smartphone
