@@ -1,8 +1,3 @@
 # AISExchange
-<hr>
-
-[Main Documentation](../README.md)
-
-## Server and Database Documentation
-
-<hr>
+## Server Documentation
+This is the server documentation for AISExchange.
