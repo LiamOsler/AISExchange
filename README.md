@@ -4,9 +4,14 @@
 This is the main documentation for AISExchange.
 
 ### Server Documentation:
-[Link](/server/README.md)
+[Server README](https://github.com/LiamOsler/AISExchange/tree/master/server))
 
-### Client Documentation:
+### Web Client Documentation:
+[Client README](https://github.com/LiamOsler/AISExchange/tree/master/client))
+
+### App Client Documentation:
+[App README](https://github.com/LiamOsler/AISExchange/tree/master/app))
+
 
 <hr>
 
