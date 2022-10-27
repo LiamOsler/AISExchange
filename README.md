@@ -1,19 +1,16 @@
 # AISExchange
-<hr>
 ## Main Documentation
 This is the main documentation for AISExchange.
 
 ### Server Documentation:
-[Server README](https://github.com/LiamOsler/AISExchange/tree/master/server))
+[Server README](https://github.com/LiamOsler/AISExchange/tree/master/server)
 
 ### Web Client Documentation:
-[Client README](https://github.com/LiamOsler/AISExchange/tree/master/client))
+[Client README](https://github.com/LiamOsler/AISExchange/tree/master/client)
 
 ### App Client Documentation:
-[App README](https://github.com/LiamOsler/AISExchange/tree/master/app))
+[App README](https://github.com/LiamOsler/AISExchange/tree/master/app)
 
-
-<hr>
 
 ## About 
 AISExchange was created with the intention of creating a free and open source platform for the exchange of AIS data.
